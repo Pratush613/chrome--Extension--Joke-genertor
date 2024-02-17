@@ -6,4 +6,4 @@ setInterval(()=>{
       const jokeElement = document.getElementById("jokeElements");
       jokeElement.innerHTML = Joke;
    })
-},2000)
+},5000)
